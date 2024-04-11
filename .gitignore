@@ -8,6 +8,7 @@ db.sqlite3-journal
 /mediafiles/*
 __pycache__/
 /.vscode/
+virenv/
 
 # coverage result
 .coverage
@@ -28,24 +29,8 @@ npm-debug.log
 /frontend/webpack_bundles/*
 /webpack-stats.json
 
-# Sass
-.sass-cache
-*.map
-
-# General
-/{{project_name}}-venv/
-/venv/
-/env/
 /output/
 /cache/
-boilerplate.zip
-
-# Spritesmith
-spritesmith-generated/
-spritesmith.scss
-
-# templated email
-tmp_email/
 
 .direnv
 .envrc
