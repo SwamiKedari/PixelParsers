@@ -1,0 +1,75 @@
+.image-upload-container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
+
+.upload-header {
+  font-size: 24px;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.upload-form {
+  margin-bottom: 20px;
+}
+
+.file-input {
+  display: block;
+  margin-bottom: 10px;
+  
+}
+
+.process-button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.process-button:hover {
+  background-color: #0056b3;
+}
+
+.download-container {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.download-button {
+  background-color: #28a745;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.download-button:hover {
+  background-color: #218838;
+}
+
+.result {
+  margin-top: 20px;
+}
+
+.image-container {
+  text-align: center;
+}
+
+.processed-image {
+  max-width: 100%;
+}
+
+.text-info {
+  margin-top: 20px;
+}
+
+.text-info-content {
+  white-space: pre-wrap;
+}
