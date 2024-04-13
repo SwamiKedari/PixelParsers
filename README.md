@@ -2,8 +2,8 @@
 
 ### Bounding box predictions:
 <p>
-    <img src="Images/out1.jpg" width="245">&emsp;
-    <img src="Images/out2.jpg" width="245">&emsp;
+    <img src="Images/out1.png" width="245">&emsp;
+    <img src="Images/out2.png" width="245">&emsp;
 </p>
 <br>
 
